@@ -15,8 +15,13 @@ Fokus utama pengembangan aplikasi ini adalah:
 - **HTML & CSS**
 - **Node.js & npm**
 
-### Screenshoot 
-![Screenshoot](Screenshot 2026-01-20 140318.png)
+## 🖼️ Screenshot Aplikasi
+
+### 📌 Tampilan Aplikasi
+![Application Screenshot](Screenshot%202026-01-20%20140318.png)
+
+### 📌 Hasil Output di Console
+![Result Console Screenshot](Screenshot%202026-01-20%20140458.png)
 
 git clone https://github.com/riswaldy/technical-assignment.git
 cd technical-assignment
